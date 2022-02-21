@@ -1,0 +1,125 @@
+body{
+    font-family: 'Alegreya Sans', sans-serif;
+    margin: 0%;
+}
+.first-column{
+    width: 35%;
+    margin-left: 5%;
+    margin-top: 5%;
+    padding-left: 2%;
+    float: left;
+}
+#first-div{
+    margin-top: 10%;
+    margin-left: 8%;
+}
+img{
+    width: 100%;
+}
+#first-pic{
+    width: 45%;
+
+}
+.Headline{
+    font-size: 40px;
+}
+span{
+    color: coral;
+    font-weight: 700;
+    font-size: 40px;
+    text-transform: uppercase;
+}
+p{
+    font-size: 20px;
+    color: gray;
+}
+a{
+    text-decoration: none;
+    padding: 10px 20px;
+    background-image: linear-gradient(45deg, coral, #cc5022);
+    border-radius: 5%;
+    color: white;
+    font-weight: 700;
+}
+.first-background{
+    height: 800px;
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#second-pic{
+    width: 45%;
+    margin-left: 5%;
+}
+#second-div{
+    width: 35%;
+    margin-left: 5%;
+    padding-left: 2%;
+    margin-top: 10%;
+}
+.second-column{
+    float: left;
+}
+.second-background{
+    height: 750px;
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.my-work img{
+    width: 100%;
+}
+.my-work{
+    width: 25%;
+    float: left;
+    margin-left: 6%;
+    margin-bottom: 10%;
+}
+.My-work-headline{
+    width: auto;
+    padding: 5%;
+    text-align: center;
+}
+.third-background{
+    height: 700px;
+    background-image: url(images/footer-bg1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h2{
+    font-weight: 500;
+    color: coral;
+    text-transform: uppercase;
+}
+.email{
+    height: 120px;
+    width: 30%;
+    background-color: rgb(80, 156, 255);
+    margin: auto;
+    border-radius: 10px;
+    padding-top: 20px;
+    
+    
+}
+.para{
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+h4{
+    color: white;
+    font-weight: 500;
+    font-size: larger;
+}
+.font{
+    color: white;
+    font-size: 15px;
+    vertical-align: middle;
+    
+}
+.last-background{
+    text-align: center;
+    background-image: url(images/footer-bg.png);
+    height: 500px;
+
+}
+
